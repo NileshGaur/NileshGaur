@@ -2,8 +2,6 @@
 
 <h3 align="center">A passionate fullstack developer from India</h3>
 
-<img align=”right” src=“https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif” alt=”Coding” width=”400” />
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nileshgaur&label=Profile%20views&color=0e75b6&style=flat" alt="nileshgaur" /> </p>
 
 - 🌱 I’m currently learning **Dart and Flutter**
